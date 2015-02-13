@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Planterino feature.
+ */
+
+include_once 'planterino.features.inc';

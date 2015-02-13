@@ -1,0 +1,12 @@
+name = Planterino
+description = plants are green apparently 8)
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = planterino
+dependencies[] = features
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = body
+features[field_instance][] = node-plants_8_-body
+features[node][] = plants_8_
