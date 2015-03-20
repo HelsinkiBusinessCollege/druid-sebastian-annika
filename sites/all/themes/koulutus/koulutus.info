@@ -1,0 +1,14 @@
+name = koulutus
+description = theme for koulutus
+core = 7.x
+engine = phptemplate 
+
+stylesheets[all][] = css/styles.css
+stylesheets[print][] = css/print.css
+
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[highlighted] = Highlighted
